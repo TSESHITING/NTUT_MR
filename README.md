@@ -10,7 +10,7 @@
 
 * 📱 **AR App 體驗 (WebAR App)**：[點此進入 AR 應用](https://intheothesideofthemoonntut.netlify.app)
 * 🌐 **專案網站 (Official Website)**：[點此瀏覽官方網站](https://intheothersideofthe-moon.netlify.app/#about)
-* 💻 **網頁端專案庫 (WebAR Repo)**：[點此查看 WebAR 原始碼](https://github.com/TSESHITING/your-ar-repo-name) <!-- 💡請記得將此處替換為你 WebAR 的 GitHub 網址 -->
+* 💻 **網頁端專案庫 (WebAR Repo)**：[點此查看 WebAR 原始碼](https://github.com/TSESHITING/IN-THE-OTHER-SIDE-OF-THE-MOON) <!-- 💡請記得將此處替換為你 WebAR 的 GitHub 網址 -->
 
 ---
 
@@ -64,7 +64,7 @@
 
 * 📱 **WebAR App Experience**: [Click here to enter AR App](https://intheothesideofthemoonntut.netlify.app)
 * 🌐 **Official Website (About)**: [Click here to visit official website](https://intheothersideofthe-moon.netlify.app/#about)
-* 💻 **WebAR Source Repository**: [Click here to view WebAR Repo](https://github.com/TSESHITING/your-ar-repo-name) <!-- 💡 Replace with your actual WebAR GitHub URL -->
+* 💻 **WebAR Source Repository**: [Click here to view WebAR Repo](https://github.com/TSESHITING/IN-THE-OTHER-SIDE-OF-THE-MOON) <!-- 💡 Replace with your actual WebAR GitHub URL -->
 
 ---
 
