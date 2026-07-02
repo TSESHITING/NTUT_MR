@@ -167,12 +167,22 @@ Packages/packages-lock.json linguist-generated
 # Spine export file for Unity
 *.skel.bytes            lfs
 
-# Exceptions for .asset files such as lightning pre-baking
-LightingData.asset     binary
+# ==========================================
+# 🛑 修正 GitHub 語言統計比例 (Focus on C#)
+# ==========================================
+# 將 Unity 自動生成的 YAML 資產排除在語言統計之外
+*.meta linguist-vendored
+*.prefab linguist-vendored
+*.asset linguist-vendored
+*.unity linguist-vendored
+*.anim linguist-vendored
+*.controller linguist-vendored
 
-# 告訴 GitHub 把這些資料夾當作自動生成的內容，不計入程式語言統計
-01_BackUpThisFolder_ButDontShipItWithYourG.../** linguist-generated=true
-NTUT_MR_BurstDebugInformation_DoNotShip.../** linguist-generated=true
-YODEX_BackupThisFolder_ButDontShipItWithY.../** linguist-generated=true
-YODEX_NEW_BackupThisFolder_ButDontShipIt.../** linguist-generated=true
-TempAssembly.dll linguist-generated=true
+# 將 UI Toolkit 檔案排除在語言統計之外
+*.uxml linguist-vendored
+*.uss linguist-vendored
+*.tss linguist-vendored
+
+# 將 JSON 配置檔案排除
+*.asmdef linguist-vendored
+*.asmref linguist-vendored
