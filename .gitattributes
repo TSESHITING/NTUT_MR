@@ -169,3 +169,10 @@ Packages/packages-lock.json linguist-generated
 
 # Exceptions for .asset files such as lightning pre-baking
 LightingData.asset     binary
+
+# 告訴 GitHub 把這些資料夾當作自動生成的內容，不計入程式語言統計
+01_BackUpThisFolder_ButDontShipItWithYourG.../** linguist-generated=true
+NTUT_MR_BurstDebugInformation_DoNotShip.../** linguist-generated=true
+YODEX_BackupThisFolder_ButDontShipItWithY.../** linguist-generated=true
+YODEX_NEW_BackupThisFolder_ButDontShipIt.../** linguist-generated=true
+TempAssembly.dll linguist-generated=true
