@@ -49,3 +49,41 @@
 1. 複製本專案庫：
    ```bash
    git clone https://github.com/TSESHITING/your-repo-name.git
+
+   👁️ English Version
+1. 🌐 WebAR Application (React + Mind-AR)
+A bilingual (English/Chinese) WebAR application built with React and Mind-AR, featuring an accessible, no-install-required empathy experience right from your mobile browser.
+
+Core Features: Interactive video triggers linked to 11 unique QR codes. Scanning the code instantly streams the corresponding empathy scenario.
+
+Tech Stack: React / Vue, Mind-AR (Image Tracking), AI-assisted automation development tools.
+
+2. 🥽 Meta Quest 3 MR Experience (Unity)
+An immersive Mixed Reality (MR) empathy-driven project built with Unity 2022.3+ LTS specifically for the Meta Quest 3.
+
+"They are not lazy, nor are they unfocused. They just see the world through a different lens."
+
+Utilizing MR Passthrough, this app seamlessly blends the user's physical environment with virtual real-time distortions to simulate how children with learning disabilities (such as dyslexia) perceive written text—helping educators and parents experience their daily struggles firsthand.
+
+💡 Visual Impairment Simulations
+🏃 Jumping Text: Words and letters shift positions erratically.
+
+🔄 Inverted & Mirrored Imagery: Text appears upside down or backward.
+
+🌫️ Blurry Vision: Words dissolve and lose clarity, turning reading into an exhausting battle.
+
+🛠️ Core Features & Technical Stack
+Real-time Object/Image Detection: Instantly instantiates a dynamic Unity Prefab in physical space upon detecting real-world triggers.
+
+Visual Impairment Shaders: Custom Unity scripts and shaders applied to text meshes for dynamic rendering of shifting, inverting, and blurring text.
+
+🚀 Getting Started & Installation
+Clone the repository:
+
+Bash
+git clone [https://github.com/TSESHITING/your-repo-name.git](https://github.com/TSESHITING/your-repo-name.git)
+Open the project in Unity Hub using version 2022.3 LTS (or higher).
+
+Ensure the Build Platform is set to Android (for Meta Quest).
+
+Deploy to your Meta Quest 3 via Oculus Link or Build and Run.
