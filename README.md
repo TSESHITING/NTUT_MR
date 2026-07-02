@@ -1,7 +1,7 @@
 # 👁️ Through Their Eyes: An MR Experience for Learning Disabilities
 
-[!["Language: English"](https://img.shields.io/badge/Language-English-blue.svg)](#-english)
-[!["語言：繁體中文"](https://img.shields.io/badge/語言-繁體中文-brightgreen.svg)](#-繁體中文)
+[!["Language: English"](https://img.shields.io/badge/Language-English-blue.svg)](#-english-version)
+[!["語言：繁體中文"](https://img.shields.io/badge/語言-繁體中文-brightgreen.svg)](#-繁體中文版本)
 
 [![Unity](https://img.shields.io/badge/Unity-2022.3+-blue.svg?style=flat&logo=unity)](https://unity.com/)
 [![Platform](https://img.shields.io/badge/Platform-Meta%20Quest%203-lightgrey.svg)](https://www.meta.com/quest/quest-3/)
@@ -13,9 +13,11 @@
 
 * 📱 **AR App 體驗 (WebAR App)**：[點此進入 AR 應用](https://intheothesideofthemoonntut.netlify.app)
 * 🌐 **專案網站 (Official Website)**：[點此瀏覽官方網站](https://intheothersideofthe-moon.netlify.app/#about)
-* 💻 **網頁端專案庫 (WebAR Repo)**：[點此查看 WebAR 原始碼](https://github.com/TSESHITING/your-ar-repo-name) ---
+* 💻 **網頁端專案庫 (WebAR Repo)**：[點此查看 WebAR 原始碼](https://github.com/TSESHITING/your-ar-repo-name)
 
-## 👁️ 繁體中文
+---
+
+## 👁️ 繁體中文版本
 
 > **「他們不是懶惰，也不是不專心。他們只是透過不同的鏡頭在看這個世界。」**
 
@@ -48,42 +50,4 @@
 #### 設定步驟
 1. 複製本專案庫：
    ```bash
-   git clone https://github.com/TSESHITING/your-repo-name.git
-
-   👁️ English Version
-1. 🌐 WebAR Application (React + Mind-AR)
-A bilingual (English/Chinese) WebAR application built with React and Mind-AR, featuring an accessible, no-install-required empathy experience right from your mobile browser.
-
-Core Features: Interactive video triggers linked to 11 unique QR codes. Scanning the code instantly streams the corresponding empathy scenario.
-
-Tech Stack: React / Vue, Mind-AR (Image Tracking), AI-assisted automation development tools.
-
-2. 🥽 Meta Quest 3 MR Experience (Unity)
-An immersive Mixed Reality (MR) empathy-driven project built with Unity 2022.3+ LTS specifically for the Meta Quest 3.
-
-"They are not lazy, nor are they unfocused. They just see the world through a different lens."
-
-Utilizing MR Passthrough, this app seamlessly blends the user's physical environment with virtual real-time distortions to simulate how children with learning disabilities (such as dyslexia) perceive written text—helping educators and parents experience their daily struggles firsthand.
-
-💡 Visual Impairment Simulations
-🏃 Jumping Text: Words and letters shift positions erratically.
-
-🔄 Inverted & Mirrored Imagery: Text appears upside down or backward.
-
-🌫️ Blurry Vision: Words dissolve and lose clarity, turning reading into an exhausting battle.
-
-🛠️ Core Features & Technical Stack
-Real-time Object/Image Detection: Instantly instantiates a dynamic Unity Prefab in physical space upon detecting real-world triggers.
-
-Visual Impairment Shaders: Custom Unity scripts and shaders applied to text meshes for dynamic rendering of shifting, inverting, and blurring text.
-
-🚀 Getting Started & Installation
-Clone the repository:
-
-Bash
-git clone [https://github.com/TSESHITING/your-repo-name.git](https://github.com/TSESHITING/your-repo-name.git)
-Open the project in Unity Hub using version 2022.3 LTS (or higher).
-
-Ensure the Build Platform is set to Android (for Meta Quest).
-
-Deploy to your Meta Quest 3 via Oculus Link or Build and Run.
+   git clone [https://github.com/TSESHITING/your-repo-name.git](https://github.com/TSESHITING/your-repo-name.git)
